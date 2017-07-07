@@ -1,0 +1,12 @@
+mkdir -p png jpg gif
+
+mv *.jpg jpg/
+mv *.jpeg jpg/
+mv *.JPEG jpg/
+mv *.JPG jpg/
+
+mv *.png png/
+mv *.PNG png/
+
+mv *.gif gif/
+mv *.GIF gif/
